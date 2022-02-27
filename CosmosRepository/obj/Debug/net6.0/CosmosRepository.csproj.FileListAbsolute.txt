@@ -1,0 +1,13 @@
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\obj\Debug\net6.0\CosmosRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\obj\Debug\net6.0\CosmosRepository.AssemblyInfoInputs.cache
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\obj\Debug\net6.0\CosmosRepository.AssemblyInfo.cs
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\obj\Debug\net6.0\CosmosRepository.csproj.CoreCompileInputs.cache
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\bin\Debug\net6.0\CosmosRepository.deps.json
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\bin\Debug\net6.0\CosmosRepository.dll
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\bin\Debug\net6.0\ref\CosmosRepository.dll
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\bin\Debug\net6.0\CosmosRepository.pdb
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\obj\Debug\net6.0\CosmosRepository.dll
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\obj\Debug\net6.0\ref\CosmosRepository.dll
+C:\Users\A7536141\source\repos\CosmosRepository\CosmosRepository\obj\Debug\net6.0\CosmosRepository.pdb
